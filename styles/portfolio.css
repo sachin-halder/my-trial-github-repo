@@ -5,13 +5,20 @@ body{
 
 }
 .text : primary{
-    color: #000; FD6UAO   
+    color: #UFD6EO;   
 }
 .color-primary
 .btn-primary
 border radius :5px;
-backgroung= #   FD6UEO
-
+backgroung= # FD6UEO
+border : 0
+/*header related styles*/
+header{
+    background- color: #474747    
+    background -image: url('./images/./')
+    background -repeat : no repeat
+    background-position: bottom-right
+}  
 
 
 /* nav related style*/
@@ -35,3 +42,50 @@ nav a{
     text-decoration: none;
     color: #474747;
 }
+.banner{
+    padding :30px;30px;0;150px
+    display : flex
+    align items :center
+} 
+.banner
+profile pic{
+    width: 500px;
+}
+.banner-greeting
+font-size : 45px
+color: #474747  
+margin bottom: 0
+
+.banner-title
+font-size :85px
+font-weight:700
+margin-top : 5px
+
+/*main section styles*/
+
+main{
+    max-width: 1140;
+    margin: 0,auto;  
+}
+
+/*about section styles*/
+.about{
+    padding: 130px;
+    border-radius: 10px
+ 
+}
+.about info container{
+ display: flex;
+ justify-content: space-around;
+ text-align: center;
+}
+.download-cv{
+ text-align: center;
+ margin-top: 50px;   
+} 
+
+
+
+
+    
+
